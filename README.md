@@ -12,6 +12,7 @@
 5. 테일윈드
 6. yarn
 7. MIT 라이센스
+8. Git hook - husky
 
 ## 빠른 시작
 
